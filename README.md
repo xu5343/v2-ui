@@ -1,11 +1,5 @@
 中文 | [English](README.en.md)
 
-# 捐赠支持
-如果你觉得面板好用的话，可以考虑一下捐赠支持，金额随意，感谢支持。
- - [Paypal](https://blog.sprov.xyz/go/support-paypal)
- - USDT：0xa77579db35ad766844d41aca541d658349268012
- - 以太坊 (ETH)：0xa77579db35ad766844d41aca541d658349268012
- - 比特币 (BTC)：bc1qemdf5vdz8cq07cdcqzhvzewy35994cxt7gnrpegaz8txwxfp2ysqtfw6hh
 
 # v2-ui
 支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel
@@ -44,7 +38,7 @@ v2-ui 与其它所有关于修改 v2ray 配置文件的工具***完全不兼容*
 
 ## 一键安装&升级
 ```
-bash <(curl -Ls https://blog.sprov.xyz/v2-ui.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/xu5343/v2-ui/master/install.sh)
 ```
 
 ## 手动安装&升级
